@@ -10,7 +10,7 @@
 
 #### ✨I learned to make eye catchy web pages but struggled to align the list style bullets, to add a border around the bullet & hard coded to get the output but will figure our and solve the issue ✨
 
-[[Click here to view Live 🚀]](https://rp-project-4.netlify.app/ "Law Home Page")
+[[Click here to view Live 🚀]](https://rp-project-6.netlify.app/ "Law Home Page")
 
 ## Screenshot of the Project 👇
 ![](./photos/Plant%20HomePage.png)
